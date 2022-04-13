@@ -5,3 +5,4 @@ Git tracks changes of files
 Creating a new branch is quick
 Add some random text
 Add more random text
+Add 3rd text in mainline
